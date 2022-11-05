@@ -61,7 +61,6 @@ def home():
          "slackUsername": "idyValour",
         "message": "Welcome to Home"
         }
-
     return jsonify(data)
 
 
